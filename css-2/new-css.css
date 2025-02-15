@@ -1,0 +1,835 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+.head {
+    width: 100%;
+    height: 36px;
+    background-color: #E31E25;
+}
+
+.table-1{
+    padding-top: 3px;
+}
+
+#city {
+    background-color: #E31E25;
+    color: #f5f5f5;
+    border: 1px solid #f5f5f5;
+    border-radius: 3px
+}
+
+.city-1 {
+    color: grey;
+    background-color: #f5f5f5;
+}
+
+#language {
+    background-color: #E31E25;
+    color: #f5f5f5;
+    border: 1px solid #f5f5f5;
+    border-radius: 3px
+}
+
+.language-1 {
+    color: grey;
+    background-color: #f5f5f5;
+}
+
+.pe-3 {
+    color: #f5f5f5;
+    text-decoration: none;
+}
+
+.navigation-1 {
+    margin-left: 20px;
+}
+
+.table-3{
+    width: 100%;
+    height: 800px;
+    background-image: url(../red-&-white-web/images/bg-image-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.count {
+    width: 100%;
+    height: 180px;
+    background-color: #02395A;
+    padding-top: 50px;
+}
+
+.fa-suitcase {
+    color: #f5f5f5;
+    font-size: 35px;
+}
+
+.fa-user {
+    color: #f5f5f5;
+    font-size: 35px;
+}
+
+.fa-building {
+    color: #f5f5f5;
+    font-size: 35px;    
+}
+
+.heading {
+    font-size: 30px;
+    font-weight: 80px;
+    color: #f5f5f5;
+}
+
+.sub-heading {
+    font-size: 18px;
+    font-weight: 40px;
+    color: #7997a9;
+}
+
+.career {
+    background-color: #F5F5F5;
+    width: 100%;
+}
+
+.career-content{
+    background-color: #F5F5F5;
+    width: 100%;
+}
+
+.career-heading {
+    color: #343f52;
+    font-size: 36px;
+    font-family: sans-serif;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.carrer-content-heading {
+    font-size: 16px;
+    color: #02395A;
+}
+
+.td-career {
+    width: 350px;
+    height: 150px;
+    box-shadow: 5px 5px 15px #d1d9e6, -5px -5px 15px #ffffff;
+}
+
+.td-2-career {
+    width: 50px;
+    height: 150px;
+    box-shadow: 5px 5px 15px #d1d9e6, -5px -5px 15px #ffffff;
+}
+
+.table-7 {
+    margin-right: 180px;
+}
+
+.syllabus {
+    background-color: #FEFEFE;
+}
+
+.syllabus-heading {
+    font-size: 36px;
+    color: #343f52; 
+}
+
+.td-1-syllabus {
+    width: 280px;
+    height: 400px;
+    background-image: url(../red-&-white-web/images/image-1-syllabus.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.td-2-syllabus {
+    width: 280px;
+    height: 400px;
+    background-image: url(../red-&-white-web/images/image-2-syllabus.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+
+.td-3-syllabus {
+    width: 280px;
+    height: 400px;
+    background-image: url(../red-&-white-web/images/image-3-syllabus.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.td-4-syllabus {
+    width: 280px;
+    height: 400px;
+    background-image: url(../red-&-white-web/images/image-4-syllabus.JPG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.syllabus-content {
+    margin-top: 40px;
+    color: #f5f5f5;
+    background: rgb(4,55,85);
+    background: linear-gradient(32deg, rgba(4,55,85,0.9080882352941176) 0%, rgba(233,238,238,0.19940476190476186) 100%);
+
+}
+
+.description {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.table-8 {
+    margin-top: 40px;
+}
+
+.table-9 {
+    margin-top: 60px;
+}
+
+.icon-syllabus {
+    margin-right: 20px;
+}
+
+.legacy-heading {
+    font-size: 36px;
+    color: #343f52;
+    margin-left: 150px;
+    margin-top: -210px;
+}
+
+span {
+    color: red;
+}
+
+.legacy-description {
+    font-size: 14px;
+    color: #343f52;text-align: justify;
+    margin-left: 150px;
+    margin-top: -250px;
+}
+
+.fa-check{
+    background-color: #dce7f9;
+    font-weight: bold;
+    font-size: small;
+    color: #3F78E0;
+    border-radius: 25px;
+}
+
+.list{
+    color: #343f52;
+    margin-top: -150px;
+    font-size: 14px;
+}
+
+#list-1 {
+    color: #343f52;
+    margin-left: 480px;
+    font-size: 14px;
+}
+
+#list-2 {
+    color: #343f52;
+    margin-right: -300px;
+    font-size: 14px;
+}
+
+.apply {
+    width: 100%;
+    background-color: #F5F5F5;
+    padding-top: 0px;
+}
+
+.video {
+    padding-top: 60px;
+}
+
+.apply-heading {
+    color: #343f52;
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.apply-list-1 {
+
+}
+
+.apply-list-2 {
+    margin-left: -24px;
+}
+
+.table-12 {
+    margin-left: 120px;
+    margin-top: -70px;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    background-color: #02395A;;
+    text-decoration: none;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: bolder;   
+    margin-top: 30px;
+    border-radius: 3px;
+}
+
+.we-are-in-heading {
+    font-size: 36px;
+    margin-top: 50px;
+}
+
+.apply-row-1 {
+    
+}
+
+.apply-images {
+    margin-top: 50px;    
+}
+
+.city {
+    font-size: 22px;
+    color: #343f52;
+}
+
+.location {
+    font-size: 14px;
+    color: #343f52;
+}
+
+.box-1 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+
+.box-2 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+
+.box-3 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+
+.box-4 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+
+.box-5 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+
+.box-6 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+
+.box-7 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+
+.box-8 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+
+.box-9 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+.table-16 {
+    margin-top: 50px;
+}
+
+.career-courses-heading {
+    font-size: 36px;
+    color: #343f52;
+}
+
+.c-c-image {
+    margin-left: 540px;
+    display: inline;
+}
+
+.c-c-headings {
+    font-size: 22px;
+    color: #343f52;
+}
+
+.c-c-description {
+    font-size: 14px;
+    color: #343f52;
+}
+
+.c-c-button {
+    width: 120px;
+    height: 40px;
+    border-radius: 3px;
+    background-color: #02395A;
+    color: #f5f5f5;
+    font-size: 16px;
+}
+
+.c-c-box-1 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+    
+}
+
+.c-c-box-2 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+    
+}
+
+.table-18 {
+    margin-top: 50px;
+}
+
+.t-c-heading {
+    font-size: 36px;
+    color: #343f52;
+}
+
+.t-c-sub-heading {
+    font-size: 18px;
+    color: #343f52;
+}
+
+.t-c-main-heading {
+    font-size: 22px;
+    color: #02395A;
+}
+
+.t-c-button {
+    background-color: #02395A;
+    color: #f5f5f5;
+}
+
+.t-c-box-1 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+.t-c-box-2 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+.t-c-box-3 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+.t-c-box-4 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+.t-c-box-5 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+.t-c-box-6 {
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+.table-19 {
+    margin-top: 100px;
+}
+
+.w-i-c-main-heading {
+    font-size: 36px;
+    color: #02395A;
+}
+
+.w-i-c-decription {
+    font-size: 14px;
+    color: #02395A;
+}
+
+.reviews-content {
+    margin-bottom: 100px;
+}
+
+.review-image {
+    border-radius: 250px;
+}
+
+.review-heading {
+    font-size: 34px;
+}
+
+.red{
+    color: #E31E25;
+}
+
+.table-20 {
+    margin-top: 40px;
+    box-shadow: 0 0 0 .05rem rgba(8,60,130,.06),0 0 1.25rem rgba(30,34,40,.04);
+}
+
+.review-image {
+    margin-top: 20px;
+}
+
+.review-name {
+    font-size: 18px;
+    color: #7997a9;
+    margin-left: -80px;
+    display: inline;
+}
+
+.review-review {
+    font-size: 14px;
+    color: #343f52;
+    margin-top: 20px;
+}
+
+.footer{
+    max-width: 100%;
+    background-color: #212529;
+    color: #f5f5f5;
+}
+.foot{
+    text-decoration: none;
+    color: #f5f5f5;
+}
+.our-branches{
+    list-style: none;
+}
+.fa-new{
+    font-size: 12px;
+}
+.fa-envelope{
+    font-size: 12px; 
+}
+.fa-address-card{
+    font-size: 12px; 
+    
+}
+.copyright{
+    width: 100%;
+    background-color: #60697b;
+    height: 50px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* .footer {
+    width: 100%;
+    background-color: #212529;
+    color: #F5F5F5;
+    padding-top: 80px;
+}
+
+.foot-heading-small {
+    font-size: 14px;
+    color: #F5F5F5;
+}
+
+.foot-heading {
+    color: #F5F5F5;
+    font-size: 19px;
+}
+
+.footer-links {
+    text-decoration: none;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+ <footer>
+        <section class="footer">
+            <table width="1280px" align="center" class="table-21">
+                <tr>
+                    <td>
+                        <h6 class="foot-heading">
+                            CONTACT US
+                        </h6>
+                    </td>
+                    <td>
+                        <h6 class="foot-heading">
+                            RENDING COURSE
+                        </h6>
+                    </td>
+                    <td>
+                        <h6 class="foot-heading">
+                            IMPORTANT PAGES
+                        </h6>
+                    </td>
+                    <td>
+                        <h6 class="foot-heading">
+                            BE RECRUITER
+                        </h6>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <i class="fas fa-map-marker-alt"></i>
+                        <h6 class="foot-heading-small">
+                            Our Branches        
+                        </h6>
+                    </td>
+                    <td>
+                        <ul class="footer-links">
+                            <li>
+                                <a href="">
+                                    Ak Road
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Sarthana
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Mota Varcchha
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Ved Road
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Adajan
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Dindoli
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Vesu
+                                </a>
+                            </li>
+                        </ul>
+                    </td>
+
+                    <td>
+                        <ul class="footer-links">
+                            <li>
+                                <a href="">
+                                    GIM
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    PHP
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Project Training Surat
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Android Traing Couurse
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Web Desiging Training Course
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Full-Stack Development
+                                </a>
+                            </li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul class="footer-links">
+                            <li>
+                                <a href="">
+                                    Home
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Contact us
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    About us
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Blog
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Events
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Approval
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Students T&C
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Sitemap
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Cities Sitemap
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="">
+                                    Student Login
+                                </a>
+                            </li>
+                        </ul>
+                    </td>
+                    <td>
+                        <i class="far fa-address-card"></i>
+                        <h6>
+                            Company Login/Register
+                        </h6>
+                        <i class="far fa-handshake"></i>
+                        <h6>
+                            Company T&C
+                        </h6>
+                        <i class="far fa-address-card"></i>
+                        <h6>
+                            Placement Student Login
+                        </h6>
+                        <i class="far fa-handshake"></i>
+                        <h6>
+                            Placement Student T&C
+                        </h6>
+                        <i class="fas fa-phone-alt"></i>
+                        <h6>
+                            +91 9331313196
+                        </h6>
+                        <i class="far fa-envelope"></i>
+                        <h6>
+                            placement@multimedia.edu.in
+                        </h6>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="./red-&-white-web/images/footer-image.png" alt="footer-image.png" title="footer-image.png" width="258px" height="70px">
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <i class="fas fa-phone-alt"></i>
+                        <h6>
+                            +91 7878 444 333
+                        </h6>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <i class="far fa-building"></i>
+                        <h6>
+                            Franchaise Information
+                        </h6>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <i class="far fa-envelope"></i>
+                        <h6>
+                            info@multimedia.edu.in
+                        </h6>
+                    </th>
+                </tr>
+
+                <tr>
+                    <th>
+                        <i class="fab fa-facebook-f"></i>
+                    </th>
+                </tr>
+
+                <tr>
+                    <th>
+                        <i class="fa-brands fa-x-twitter"></i>
+                    </th>
+                </tr>
+
+                <tr>
+                    <th>
+                        <i class="fab fa-youtube"></i>
+                    </th>
+                </tr>
+
+                <tr>
+                    <th>
+                        <i class="fab fa-instagram"></i>
+                    </th>
+                </tr>
+
+                <tr>
+                    <th>
+                        <i class="fab fa-linkedin-in"></i>
+                    </th>
+                </tr>
+            </table>
+        </section>
+    </footer> */
